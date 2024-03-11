@@ -74,6 +74,7 @@
   "dependencies": {
     "@leeoniya/ufuzzy": "^1.0.11",
     "@onlook/svelte": "^1.1.0",
+    "@sveltejs/adapter-vercel": "^5.1.1",
     "date-fns": "^2.30.0",
     "install": "^0.13.0",
     "kit-monorepo": "sveltejs/kit",
